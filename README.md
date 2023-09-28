@@ -3,7 +3,7 @@ cl_updaterate 128
 cl_interp 0.015
 cl_interp_ratio 1
 voice_scale 0.5
-r_drawtracers_firstperson 0
+r_drawtracers_firstperson 1
 r_fullscreen_gamma 3 
 hud_showtargetid 1
 
